@@ -1,4 +1,4 @@
-package com.therou_g.android_github;
+package com.therou_g.android_git;
 
 import org.junit.Test;
 
