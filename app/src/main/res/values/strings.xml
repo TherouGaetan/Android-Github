@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Android-Github</string>
+    <string name="authenticate_email">Username or email address</string>
+    <string name="authenticate_passwd">Password</string>
+    <string name="authenticate_login">Login</string>
 </resources>

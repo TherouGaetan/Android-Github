@@ -1,4 +1,4 @@
-package com.therou.gaetan.android_github;
+package com.therou_g.android_github;
 
 import org.junit.Test;
 

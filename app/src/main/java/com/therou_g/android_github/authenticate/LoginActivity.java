@@ -1,9 +1,9 @@
-package com.therou.gaetan.android_github.authenticate;
+package com.therou_g.android_github.authenticate;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.therou.gaetan.android_github.R;
+import com.therou_g.android_github.R;
 
 /**
  * Created by gaetan

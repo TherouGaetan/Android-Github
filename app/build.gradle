@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.therou.gaetan.android_github"
+        applicationId "com.therou_g.android_github"
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 1
